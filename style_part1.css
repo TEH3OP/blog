@@ -1,0 +1,7 @@
+.part1-background{
+    background-color: #393b54;
+    background-image: url(Blog/background_flower.png);
+    background-repeat: no-repeat;
+    height: 660px;
+    background-position: center;
+}

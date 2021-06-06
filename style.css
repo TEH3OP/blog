@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+[class^="content-"]{
+    width: 1170px;
+    display: flex;
+    margin: 0 auto;
+    height: 100%;
+}
+
+[class^="col-md-"]{
+    display: flex;
+    padding: 0 15px;
+    flex-grow: 1;
+    /* border: 1px green solid; */
+}
+
+.col-md-3{
+    flex-basis: 25%;
+    /* max-width: 25vw; */
+}
+
+.col-md-6{
+    flex-basis: 50%;
+}
+
+.col-md-1{
+    flex-basis: 7.88%;
+
+}
+
+.col-md-2{
+    flex-basis: 16.66%;
+    /* flex-grow: 1; */
+}
+
+
