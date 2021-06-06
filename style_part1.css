@@ -5,3 +5,34 @@
     height: 660px;
     background-position: center;
 }
+
+.patr1-welcome{
+    margin-top: 220px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.part1-description{
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.part1-buttons-frame{
+    display: flex;
+}
+
+.part1-buttons-size{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    width: 120px;
+    color: white;
+    margin-right: 10px;
+    margin-top: 35px;
+}
+
+.part1-buttons{
+    border-color: white;
+
+}
