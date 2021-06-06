@@ -7,6 +7,7 @@
 }
 
 .patr1-welcome{
+    font-family: 'Quattrocento Sans', sans-serif;
     margin-top: 220px;
     font-size: 36px;
     font-weight: bold;
@@ -33,6 +34,18 @@
 }
 
 .part1-buttons{
+    font-family: 'Quattrocento Sans', sans-serif;
     border-color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    display: block;
+    border-radius: 3px;
+}
 
+
+.part1-buttons:hover{
+    color:  white;
+    /* border: 1px solid #23b7a4; */
+    background-color: #23b7a4;  
+    border-color: #23b7a4;
 }
